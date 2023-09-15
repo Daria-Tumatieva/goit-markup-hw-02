@@ -32,7 +32,7 @@ a {
 .header-menu:hover, .header-menu:focus {
     color: #404BBF;
 }
-.header-contacts {
+address {
     font-style: normal
 }
 .header-contacts {
@@ -41,6 +41,7 @@ a {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
+    font-style: normal
 }
 .header-contacts:hover, .header-contacts:focus {
     color: #404BBF;
@@ -66,7 +67,7 @@ a {
     cursor: pointer;
 }
 .main-title-btn:hover, .main-title-btn:hover;:focus {
-    background: #404BBF;
+    background-color: #404BBF;
 }
 .main-advantages-hidden {
     margin: -1px;
