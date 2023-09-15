@@ -32,7 +32,7 @@ a {
 .header-menu:hover, .header-menu:focus {
     color: #404BBF;
 }
-address {
+.address {
     font-style: normal
 }
 .header-contacts {
@@ -58,16 +58,16 @@ address {
     letter-spacing: 1.12px;
 }
 .main-title-btn {
-    color: #ffffff;
+    color: #FFF;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.04em;
-    background-color: #4D5AE5
+    letter-spacing: 0.64px;
+    background: #4D5AE5;
     cursor: pointer;
 }
 .main-title-btn:hover, .main-title-btn:focus {
-    background-color: #404BBF;
+    background: #404BBF;
 }
 .main-advantages-hidden {
     margin: -1px;
