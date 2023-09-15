@@ -32,7 +32,7 @@ a {
 .header-menu:hover, .header-menu:focus {
     color: #404BBF;
 }
-.address {
+address {
     font-style: normal
 }
 .header-contacts {
